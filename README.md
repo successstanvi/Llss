@@ -1,13 +1,15 @@
-🎨 Auto Draw – Tutorial
+# 🎨 Auto Draw -- Tutorial
 
 Follow these simple steps to start drawing automatically.
 
-1. <b> Generate Your Image </b>
+## **1. Generate Your Image**
 
-Upload any image to ChatGPT and use this prompt to convert it into a high-contrast grayscale comic-book illustration.
+Upload any image to ChatGPT and use this prompt to create a
+high-contrast grayscale comic-book illustration.
 
-Image Generation Prompt
+### **🖼️ Image Generation Prompt**
 
+``` text
 Transform the uploaded reference image into a high-contrast cinematic black-and-white comic-book vector illustration with vibrant red neon accents.
 
 People and composition:
@@ -57,41 +59,42 @@ STRICT RULES:
 6. Background must remain pure white.
 
 Create a polished, high-resolution 4K illustration.
+```
 
-2. Upload Image
+## **2. Upload Image**
 
-- Save the generated image.
-- Open your phone Gallery.
-- Make sure the image is available.
+-   Save the generated image.
+-   Open your phone's **Gallery**.
+-   Make sure the image is available.
 
-3. Enable Permissions
+## **3. Enable Required Permissions**
 
-Before drawing, enable these permissions:
+Before drawing, enable:
 
-- Accessibility Permission
-- Display Over Other Apps
+-   **Accessibility Permission**
+-   **Display Over Other Apps**
 
-Both permissions are required.
+*Both permissions are required.*
 
-4. Open Drawing Controls
+## **4. Open Drawing Controls**
 
-- Open Auto Draw.
-- Click Open Drawing Control.
+-   Open **Auto Draw**.
+-   Click **Open Drawing Control**.
 
-5. Adjust Canvas
+## **5. Adjust Canvas Size**
 
-- Set the canvas size.
-- Align it with your reference image.
+-   Set the canvas size.
+-   Align it with your reference image.
 
-6. Select Colour
+## **6. Select Colour**
 
-- Choose the required drawing colour.
-- Match it with your reference image.
+-   Choose the required drawing colour.
+-   Match it with your reference image.
 
-7. Start Drawing!
+## **7. Start Drawing!**
 
-Everything is ready. Click Start Drawing and enjoy! ❤️
+Everything is ready. Click **Start Drawing** and enjoy! ❤️
 
----
+------------------------------------------------------------------------
 
-Happy Drawing! 🎨
+*Happy Drawing! 🎨*
